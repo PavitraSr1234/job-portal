@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: "Flaticon";
-  src: url("../fonts/flaticon/font/Flaticon.eot");
+  src: url("../fonts/flaticon/font/Flaticon.eot") ;
   src: url("../fonts/flaticon/font/Flaticon.eot?#iefix") format("embedded-opentype"),
        url("../fonts/flaticon/font/Flaticon.woff") format("woff"),
        url("../fonts/flaticon/font/Flaticon.ttf") format("truetype"),
@@ -39,4 +39,5 @@
 .flaticon-resume:before { content: "\f100"; }
 .flaticon-employee:before { content: "\f101"; }
 .flaticon-collaboration:before { content: "\f102"; }
-.flaticon-promotions:before { content: "\f103"; }
+.flaticon-promotions:before { content: "\f103";
+}
