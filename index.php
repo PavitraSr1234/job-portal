@@ -469,6 +469,7 @@ $error=mysqli_num_rows($query1);
   <script src="js/main.js"></script>
     
   </body>
+
 </html>
 <!-- <script>
 $(document).ready(function(){
